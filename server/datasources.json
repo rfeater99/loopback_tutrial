@@ -1,0 +1,6 @@
+{
+  "dbx": {
+    "name": "db",
+    "connector": "memory"
+  }
+}
